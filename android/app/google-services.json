@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019491075323",
+    "project_id": "larafelfaiq",
+    "storage_bucket": "larafelfaiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019491075323:android:a8920046a5e28c79bb5c5e",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019491075323-dkle8jbnlhbgnj3v94g1gg8uhe2j0eqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uts",
+            "certificate_hash": "d9a257f940b1b85ae3304c6f7bb2eaaacb1744b5"
+          }
+        },
+        {
+          "client_id": "1019491075323-6l6tsv11itoqrtbiv19h9hulqe7qov7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRcJgUzjlxCUnj7HXPX5gGRXrpCGyjBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019491075323-6l6tsv11itoqrtbiv19h9hulqe7qov7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
